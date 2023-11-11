@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Fri Nov 10 19:13:24 2023
+# Process ID: 23000
+# Current directory: C:/Users/DurkusMaximus/Desktop/Xilinx/LinearEncoder/LinearEncoder.runs/impl_1
+# Command line: vivado.exe -log TopFile.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TopFile.tcl -notrace
+# Log file: C:/Users/DurkusMaximus/Desktop/Xilinx/LinearEncoder/LinearEncoder.runs/impl_1/TopFile.vdi
+# Journal file: C:/Users/DurkusMaximus/Desktop/Xilinx/LinearEncoder/LinearEncoder.runs/impl_1\vivado.jou
+# Running On: DESKTOP-B5G40IL, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 8458 MB
+#-----------------------------------------------------------
+source TopFile.tcl -notrace
